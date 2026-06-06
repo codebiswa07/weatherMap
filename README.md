@@ -22,7 +22,7 @@ WeatherMap is a modern weather application providing *real-time forecasts, air q
 #[Preview](https://weather-map-jade.vercel.app/)
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9f296155-803d-4294-a371-6fd02a68ad3c" />
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b2e2f8aa-62a1-4961-bfcb-3a9b6e42690f" /
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b2e2f8aa-62a1-4961-bfcb-3a9b6e42690f" />
 
 ```bash
 # 1. Install all dependencies
