@@ -1,6 +1,6 @@
 import React from "react";
 import { useWeatherByCoords, useForecast } from "../../hooks/useWeather";
-import { formatTemp, getWindDirection, getAQILabel } from "../../utils/weatherUtils";
+import { formatTemp, getWindDirection } from "../../utils/weatherUtils";
 import ForecastChart from "./ForecastChart";
 
 export default function WeatherModal({ location, onClose }) {
