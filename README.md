@@ -1,6 +1,23 @@
 # 🌍 WeatherMap — MERN Stack
 
 Interactive world map weather app powered by OpenWeatherMap & Leaflet.
+WeatherMap is a modern weather application providing *real-time forecasts, air quality insights, wind conditions, and location-based weather* updates worldwide.
+
+
+---
+
+**COMPANY**: *CODTECH IT SOLUTION*
+
+**NAME**: *Biswaprakash Sahoo*
+
+**INTERN ID**: *CTIS9533*
+
+**DOMAIN**: *Mern Stack Web Development*
+
+**DURATION**: *6 Weeks*
+
+**MENTOR**: *Neela Santhosh Kumar*
+
 
 
 ```bash
